@@ -1,0 +1,11 @@
+{
+    "cameras": [
+        {
+            "Num": 0,
+            "Model": "ov5647",
+            "Is_Pi_Cam": true,
+            "Has_Config": false,
+            "Config_Location": "default.json"
+        }
+    ]
+}
